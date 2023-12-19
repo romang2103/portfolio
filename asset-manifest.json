@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ac3127bc.css",
+    "main.js": "/static/js/main.fdee9a63.js",
+    "static/media/eecsConnect.png": "/static/media/eecsConnect.b3b36cf984378d2bb0a1.png",
+    "static/media/profile_photo.jpg": "/static/media/profile_photo.12bb2706793d72120d82.jpg",
+    "static/media/bariol_regular_italic-webfont.svg": "/static/media/bariol_regular_italic-webfont.670ca300de2d97465b2a.svg",
+    "static/media/bariol_regular-webfont.svg": "/static/media/bariol_regular-webfont.7d0cf79ec82a1329cd89.svg",
+    "static/media/bariol_regular_italic-webfont.ttf": "/static/media/bariol_regular_italic-webfont.a1c59e0858269f6a24e1.ttf",
+    "static/media/bariol_regular-webfont.ttf": "/static/media/bariol_regular-webfont.6c23519013088a39d34c.ttf",
+    "static/media/pocketSiteManager.png": "/static/media/pocketSiteManager.f8a58784f70ca26927ce.png",
+    "static/media/bariol_regular_italic-webfont.woff": "/static/media/bariol_regular_italic-webfont.1ab57637d07f1d2f881a.woff",
+    "static/media/bariol_regular-webfont.woff": "/static/media/bariol_regular-webfont.38c3b9e9d730f97e59f5.woff",
+    "static/media/bariol_regular_italic-webfont.eot": "/static/media/bariol_regular_italic-webfont.7a2a7fc221f186c855cf.eot",
+    "static/media/bariol_regular-webfont.eot": "/static/media/bariol_regular-webfont.e4213a391e799fa68c64.eot",
+    "static/media/bariol_regular_italic-webfont.woff2": "/static/media/bariol_regular_italic-webfont.cc98da97c5d9f1800958.woff2",
+    "static/media/bariol_regular-webfont.woff2": "/static/media/bariol_regular-webfont.6577b355810bf515c5bf.woff2",
+    "static/media/sortingAlgoImage.png": "/static/media/sortingAlgoImage.3befbe17ff0e3f248e22.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.c0139bed7dc4beda41a1.png",
+    "static/media/github.png": "/static/media/github.05f6c17b8cd04c28456f.png",
+    "static/media/mail.png": "/static/media/mail.6b47d0554d9efa233095.png",
+    "index.html": "/index.html",
+    "main.ac3127bc.css.map": "/static/css/main.ac3127bc.css.map",
+    "main.fdee9a63.js.map": "/static/js/main.fdee9a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac3127bc.css",
+    "static/js/main.fdee9a63.js"
+  ]
+}
